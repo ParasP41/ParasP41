@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me  <br>I'm a passionate developer exploring both frontend and backend development. I love building interactive web applications and solving problems with clean, efficient code.  <br><br>- 🚀 Currently working on **Climatic**, a real-time weather app.  <br>- 💡 Exploring backend development and new technologies.  <br>- 🎨 Built a **Tic-Tac-Toe game** using React.js & Tailwind CSS.  <br>- 🛠️ Love working with **React, JavaScript, Tailwind CSS**, and learning backend frameworks.  <br>- 📌 Open to collaborations on exciting projects!  <br><br>📫 **Let's connect:** [Your LinkedIn or Twitter link]  <br>
+## 👋 About Me  <br>I'm a passionate developer exploring both frontend and backend development. I love building interactive web applications and solving problems with clean, efficient code.  <br><br>- 💡 Exploring backend development and new technologies.  <br>- 🛠️ Love working with **React, JavaScript, Tailwind CSS**, and learning backend frameworks.  <br>- 📌 Open to collaborations on exciting projects!  <br><br>📫 **Let's connect:** www.linkedin.com/in/parasp41  <br>
 
 
 ## 🌐 Socials:
