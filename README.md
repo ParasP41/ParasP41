@@ -1,24 +1,124 @@
-# 💫 About Me:
-About Me:<ul><li>Hi, I'm Paras Vishwakarma, a passionate Full-Stack Web Developer skilled in building dynamic, responsive, and full-featured web applications.<br>I specialize in the MERN Stack (MongoDB, Express.js, React.js, Node.js), creating seamless experiences from the database all the way to the user interface. With a strong foundation in frontend development and backend development, I enjoy crafting clean, efficient, and scalable solutions.<br>Over time, I’ve completed multiple projects, each sharpening my ability to solve problems, manage complete app architectures, and bring ideas to life through code. I’m committed to continuously learning and staying updated with the latest technologies to deliver modern, high-quality applications.</ul>🔥 Technical Skills<br><ul>💻 Frontend Development<br><ul>⚛️ React.js (Component-based architecture, Routing, Context API)<br>🎨 Tailwind CSS (Responsive and elegant UI design)<br>🧠 JavaScript (ES6+)<br>🏗 HTML5 & CSS3<br>🔗 API Integration<br>💾 LocalStorage Management<br>🎞 GSAP Animations (Smooth, interactive UI)</ul>🛠 Backend Development<br><ul>🌐 Node.js (Server-side JavaScript)<br>🚀 Express.js (Building scalable and secure APIs)<br>🛢 MongoDB (Database management with Mongoose)<br>🔥 RESTful API Development<br>✏️ CRUD Operations<br>🛡 Authentication and Authorization (User login/signup systems)</ul>🛠 Tools and Other Skills<br><ul>🔧 Git & GitHub (Version Control)<br>📮 Postman (API testing)<br>🧩 Problem Solving and Debugging<br>🚀 Deployment Basics (Frontend and Backend Hosting)<br>🏆 Building Full-Stack Projects from Scratch </ul><br>🚀 Goals:<br><ul><li>I am currently looking for opportunities where I can apply my full-stack skills, contribute to real-world projects, learn from industry experts, and grow as a professional developer.<br><li>I am excited to collaborate with teams that value innovation, creativity, and continuous improvement.</ul>
-</ul>
 
-📫 Connect with Me<br>
-[Linked In](https://linkedin.com/in/parasp41)<br>
-[E-mail](mailto:Parasvp41@gmail.com)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paras__p41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parasp41) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jinxp41) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ParasVishwakarma-18/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Parasvp41@gmail.com) 
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Paras Vishwakarma
 
 
-# 💻 Tech Stack:
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ParasP41&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ParasP41&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasP41&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🚀 Full-Stack Web Developer (MERN) | Backend-Focused  
+🎓 B.Tech IT @ OIST Bhopal (2023–2027)  
+💼 CTO @ Vikaro India | Backend Intern @ RV Innovators  
+
+I’m a passionate **Full-Stack Developer with strong backend expertise**, experienced in building **production-ready REST APIs**, scalable systems, and modern web applications. I enjoy designing clean architectures, solving real-world problems, and turning ideas into reliable products.
 
 ---
+
+## 🔥 What I Do Best
+- Build **secure & scalable RESTful APIs**
+- Design **complete backend architectures (MVC)**
+- Develop **modern frontend experiences with React**
+- Work on **real startup & production systems**
+- Learn continuously & ship fast 🚀
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Frontend
+- ⚛️ React.js (Routing, Context API)
+- 🎨 Tailwind CSS, Bootstrap
+- 🧠 JavaScript (ES6+)
+- 🏗 HTML5 & CSS3
+- 🎞 GSAP Animations
+
+### 🛠 Backend
+- 🌐 Node.js & Express.js
+- 🛢 MongoDB (Mongoose)
+- 🔐 JWT Authentication & Authorization
+- 🔥 RESTful API Development
+- ✏️ CRUD Operations
+- 📤 File Uploads (Cloudinary, Multer)
+- 📧 Email & OTP Integrations
+
+### 🧰 Tools & Platforms
+- 🔧 Git & GitHub
+- 📮 Postman
+- 🚀 Vercel, Netlify
+- 🧩 VS Code, Cursor
+- 🗄 Firebase, SQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🗓 Event Manager API
+**Node.js | Express | MongoDB | JWT | Cloudinary**  
+🔹 30+ REST endpoints  
+🔹 Role-based access (Users & Owners)  
+🔹 OTP authentication, file uploads, admin approval system  
+🔹 Production utilities, validations & MVC architecture  
+👉 **GitHub:** *(add repo link)*
+
+---
+
+### 📝 iBlog API
+**Node.js | Express | MongoDB | JWT | Cloudinary | PDFKit**  
+🔹 Blog CRUD, comments, likes, pins  
+🔹 PDF generation & email notifications  
+🔹 Secure JWT auth with bcrypt  
+👉 **GitHub:** *(add repo link)*
+
+---
+
+### 🎨 Zentry Clone
+**React.js | GSAP | Tailwind | Vercel**  
+🔹 Pixel-perfect UI clone  
+🔹 Smooth animations & responsive design  
+👉 **Live Demo:** *(add link)* | **GitHub:** *(add repo link)*
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 Chief Technology Officer — Vikaro India
+**Oct 2025 – Present (Remote)**  
+- Leading complete product development & architecture  
+- Deployed Vikaro’s official website  
+- Managing codebase, deployment & scalability decisions  
+
+### 🔧 Backend Development Intern — RV Innovators
+**Oct 2025 – Present (Remote)**  
+- Building backend systems for web & mobile apps  
+- Developing APIs & managing databases  
+- Collaborating with frontend teams for integration  
+
+---
+
+## 🏆 Achievements
+- ✅ Solved **150+ LeetCode problems**
+- 🏅 Completed **LeetCode 100-Day DSA Challenge**
+- 📜 Earned multiple technical certifications (Cisco & others)
+
+---
+
+## 🎯 Goals
+- Grow as a **backend & system-level engineer**
+- Work on **real-world scalable products**
+- Contribute to impactful teams & open-source projects
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ParasP41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ParasP41&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasP41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/parasp41)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Parasvp41@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/paras__p41)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ParasP41&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
